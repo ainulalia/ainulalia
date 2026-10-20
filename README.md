@@ -1,4 +1,8 @@
 ## Hello everyone! 👋
+### I'm Ainul Alia👋
+### Currently studying at University Technology Malaysia
+### Pursuing a Computer Science (Data Engineering) with Honours
+
 
 <!--
 **ainulalia/ainulalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
