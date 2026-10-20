@@ -1,7 +1,5 @@
-## Hello everyone! 👋
-### I'm Ainul Alia👋
-### Currently studying at University Technology Malaysia
-### Pursuing a Computer Science (Data Engineering) with Honours
+### Hello everyone! 👋
+### I'm Ainul Alia. I'm currently studying at University Technology Malaysia. Pursuing a Computer Science (Data Engineering) with Honours
 
 
 <!--
