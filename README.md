@@ -1,18 +1,19 @@
-### Hello everyone! 👋
-### I'm Ainul Alia. I'm currently studying at University Technology Malaysia. Pursuing a Computer Science (Data Engineering) with Honours
+### Hi everyone, here is Ainul Alia 👋
+---
+### 🎓About me
 
+I am a **1st-year Bachelor of Computer Science (Data Engineering) with Honours** student passionate about to working with database management, data pipeline and exploring modern software technology!
 
-<!--
-**ainulalia/ainulalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🏛️ University: **Undergraduate Student at University Teknologi Malaysia**
+* 📚 Studying: **B.S in Data Engineering**
+* 🧪 Current Learning: **SQL, Phyton, Databases and Data Structure** 
+* 🎯 Goal: **Master in database design and build my first pipeline** 
+* 💡 Interests: **Cloud Computing and Big Data Infrastructure**
+---
+### 📬Let's Connect!
+* 📧 Email: ainulalia@graduate.utm.my
+* 💼 Linkedin: [Ainul Alia](https://www.linkedin.com/in/ainul-alia-b1736a443/)
+---
+<p align="center">
+  <i> "Data is not information, information is not knowledge, knowledge is not understanding, understanding is not wisdom." - Prof. Clifford Stoll </i>
+</p>
